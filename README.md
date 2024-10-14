@@ -7,9 +7,9 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: C#, JS, HTML, CSS, SQL, React, PHP
 
-- 🔭 I’m currentry work project html css
-- 🌱 I’m currently learning Vite js, next js
-- 📫 How to reach me: vk: https://vk.com/shuma02 
+- 🔭 I’m currentry work project C++
+- 🌱 I’m currently learning C++
+- How to reach me: tg:https://t.me/Mmelkij2 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Melkijprogrammist)  
